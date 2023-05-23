@@ -119,8 +119,6 @@
 
 ## 1.1.8 Check Your Understanding - Network Types
 
-- Check your understanding of network types by choosing the correct answer to the following questions
-
 ## 1.2.1 Video - Types of Personal Data
 
 ## 1.2.2 The Bit
@@ -150,8 +148,6 @@
 
 ## 1.2.4 Check Your Understanding - Data Transmission
 
-- Check your understanding of data transmission by choosing the correct answer to the following questions
-
 ## 1.3.1 Bandwidth
 
 - Streaming a movie or playing a multiplayer game requires reliable, fast connections. To support these “high bandwidth” applications, networks have to be capable of transmitting and receiving bits at a very high rate
@@ -177,8 +173,6 @@
 ## 1.3.3 Video - Throughput
 
 ## 1.3.4 Check Your Understanding - Bandwidth and Throughput
-
-- Check your understanding of bandwidth and throughput by choosing the correct answer to the following questions
 
 ## 1.4.1 What Did I Learn in this Module?
 
@@ -213,5 +207,5 @@
 
 ## 1.4.3 Communications in a Connected World Quiz
 
-[Go to Next Module](./)
+[Go to Next Module](./2_Network_Components_Types_and_Connections.md)
 

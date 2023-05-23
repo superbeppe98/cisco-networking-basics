@@ -1,11 +1,9 @@
 # cisco-networking-basics
 
 ## Course Syllabus
-<<<<<<< HEAD
-- Module 1: [Communication in a Connected World](./ )
-=======
-- Module 1: [Communication in a Connected World](./1_Communication_in_a_Connected_World.md)
->>>>>>> fc994155c81340922dc10fd9c2776659b8869365
+- Module 1: [Communication in a Connected World](./_Communication_in_a_Connected_World.md)
+- Module 2: [Network Components Types and Connections](./_Network_Components_Types_and_Connections)
+- Module 3: [Wireless and Mobile Networks](./3_Wireless_and_Mobile_Networks.md)
 
 <br>
 
