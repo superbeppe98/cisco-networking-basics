@@ -9,9 +9,6 @@
 - Module Title: Wireless and Mobile Networks
 - Module Objective: Configure mobile device for wireless access
 
-- Wireless networks: Describe the different types of networks used by cell phones and other mobile devices
-- Mobile device connectivity: Configure mobile devices for wireless connectivity
-
 ## 3.1.1 Video - Types of Wireless Networks
 
 ## 3.1.2 Video - Cell Phone Interactions with Different Networks
