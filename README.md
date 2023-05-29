@@ -4,6 +4,7 @@
 - Module 1: [Communication in a Connected World](./_Communication_in_a_Connected_World.md)
 - Module 2: [Network Components Types and Connections](./_Network_Components_Types_and_Connections)
 - Module 3: [Wireless and Mobile Networks](./3_Wireless_and_Mobile_Networks.md)
+- Module 4: [Build a Home Network](./4_Build_a_Home_Network.md)
 
 <br>
 
