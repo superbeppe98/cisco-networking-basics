@@ -173,5 +173,5 @@ Disabling SSID broadcasting can make it more difficult for legitimate clients to
 
 ## 4.5.3 Build a Home Network Quiz
 
-[Go to Next Module](./)
+[Go to Next Module](./5_Communication_Principles.md)
 
