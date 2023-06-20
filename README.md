@@ -6,6 +6,7 @@
 - Module 3: [Wireless and Mobile Networks](./3_Wireless_and_Mobile_Networks.md)
 - Module 4: [Build a Home Network](./4_Build_a_Home_Network.md)
 - Module 5: [Communication Principles](./5_Communication_Principles.md)
+- Module 6: [Network Media](./6_Network_Media.md)
 
 <br>
 

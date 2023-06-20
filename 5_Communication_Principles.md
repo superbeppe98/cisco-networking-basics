@@ -58,8 +58,6 @@
 
 - Check your understanding of communication standards by choosing the correct answer to the following questions
 
-## 5.3 Network Communication Models
-
 ## 5.3.1 Video - Network Protocols
 
 ## 5.3.2 Video - The Protocol Stack
@@ -111,5 +109,5 @@ The first layered model for internetwork communications was created in the early
 
 ## 5.4.3 Communications Principles Quiz
 
-[Go to Next Module](./)
+[Go to Next Module](./6_Network_Media.md)
 
