@@ -1,17 +1,15 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
+## 6.0.1 Webster - Why Should I Take this Module
 
-6.0.1 Webster - Why Should I Take this Module
 Kishori knows that the 15 to 20 devices in a patient’s room wirelessly connect to the network. She also uses a wireless tablet. While working at the nurses' station, she noticed that the wireless network on her desktop computer was disabled. However, she still has access to patient records. How is the desktop connected?
 
 How does communication transmit across a network? The answer is network media. Media provides a channel over which the message travels from source to destination. In modern networks, there are primarily three types of media used. Do you know what they are? Take this module to learn about media types.
 
-
-6.0.2 What Will I Learn in this Module?
+## 6.0.2 What Will I Learn in this Module?
 Module Title: Network Media
 
 Module Objective: Describe common network media.
-
 
 6.1.1 Video - Network Media Types
 This is a media player component. Select the play / pause button to watch or listen.
