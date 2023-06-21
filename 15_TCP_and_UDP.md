@@ -1,4 +1,4 @@
-15.0.1 Webster - Why Should I Take this Module?
+## 15.0.1 Webster - Why Should I Take this Module?
 
 Kishori arrives at work early to get on a video conference call on the desktop computer at her nursing station. She logs into the session about mask protocol at the hospital. As she intently listens to the presenter, she notices a few dropped words. She wonders if it is a problem with the network. Is this similar to her tablet losing the connection for a moment? But then she remembers that she is using a computer that is hardwired to the network.
 
@@ -9,30 +9,23 @@ Kishori had not heard of this before. Have you? In this module you will compare 
 
 
 
-15.0.2 What Will I Learn in this Module?
+## 15.0.2 What Will I Learn in this Module?
 Module Title: TCP and UDP
 
 Module Objective: Explain how clients access internet services.
 
+## 15.1.1 Video - TCP and UDP Operation
 
-
-
-
-15.1.1 Video - TCP and UDP Operation
-
-
-
-
-15.1.2 Check Your Understanding - TCP and UDP
+## 15.1.2 Check Your Understanding - TCP and UDP
 Check your understanding of TCP and UDP by choosing the correct answer to the following questions.
 
 
 
-15.2.1 Video - Transport Layer Port Numbers
+## 15.2.1 Video - Transport Layer Port Numbers
 
 
 
-15.2.2 TCP and UDP Port Numbers
+## 15.2.2 TCP and UDP Port Numbers
 There are many services that we access through the internet in the course of a day. DNS, web, email, FTP, IM and VoIP are just some of these services that are provided by client/server systems around the world. These services may be provided by a single server or by several servers in large data centers.
 
 When a message is delivered using either TCP or UDP, the protocols and services requested are identified by a port number, as shown in the figure. A port is a numeric identifier within each segment that is used to keep track of specific conversations between a client and server. Every message that a host sends contains both a source and destination port.
@@ -57,7 +50,7 @@ Search the IANA website for port registry to view the full list of port numbers 
 
 
 
-15.2.3 Socket Pairs
+## 15.2.3 Socket Pairs
 The source and destination ports are placed within the segment. The segments are then encapsulated within an IP packet. The IP packet contains the IP address of the source and destination. The combination of the source IP address and source port number, or the destination IP address and destination port number is known as a socket.
 
 In the example in the figure, the PC is simultaneously requesting FTP and web services from the destination server.
@@ -78,7 +71,7 @@ The source port number acts as a return address for the requesting application. 
 
 
 
-15.2.4 The netstat Command
+## 15.2.4 The netstat Command
 Unexplained TCP connections can pose a major security threat. They can indicate that something or someone is connected to the local host. Sometimes it is necessary to know which active TCP connections are open and running on a networked host. Netstat is an important network utility that can be used to verify those connections. As shown below, enter the command netstat to list the protocols in use, the local address and port numbers, the foreign address and port numbers, and the connection state.
 
 
@@ -86,11 +79,11 @@ Unexplained TCP connections can pose a major security threat. They can indicate 
 By default, the netstat command will attempt to resolve IP addresses to domain names and port numbers to well-known applications. The -n option can be used to display IP addresses and port numbers in their numerical form.
 
 
-15.2.5 Check Your Understanding - Port Numbers
+## 15.2.5 Check Your Understanding - Port Numbers
 Check your understanding of port numbers by choosing the correct answer to the following questions.
 
 
-15.3.1 What Did I Learn in this Module?
+## 15.3.1 What Did I Learn in this Module?
 
 TCP and UDP
 UDP is a 'best effort' delivery system that does not require acknowledgment of receipt. UDP is preferable with applications such as streaming audio and VoIP. Acknowledgments would slow down delivery and retransmissions are undesirable. Packets take a path from the source to a destination. A few packets may be lost but it is usually not noticeable.
@@ -99,7 +92,7 @@ TCP packets take a path from the source to the destination. However, each of the
 
 
 
-15.3.1 What Did I Learn in this Module?
+## 15.3.1 What Did I Learn in this Module?
 
 
 Port Numbers
@@ -120,7 +113,7 @@ Unexplained TCP connections can pose a major security threat. They can indicate 
 
 
 
-15.3.2 Webster - Reflection Questions
+## 15.3.2 Webster - Reflection Questions
 
 I once ordered some furniture from one of those online stores. It was sent to me in three different boxes, over the span of two weeks. I was not worried that anything was missing because I received email updates that detailed the location of each box along its route from the store to my home. That example is like TCP. All along the route, there are built-in checks to ensure that what needs to be delivered gets delivered, and in the right order.
 
@@ -129,4 +122,4 @@ There is still a need for UDP in networking. I would not enjoy streaming a movie
 
 
 
-15.3.3 TCP and UDP Quiz
+## 15.3.3 TCP and UDP Quiz
