@@ -8,6 +8,14 @@
 - Module 5: [Communication Principles](./5_Communication_Principles.md)
 - Module 6: [Network Media](./6_Network_Media.md)
 - Module 7: [The Access Layer](./7_The_Access_Layer.md)
+- Module 8: [The Internet Protocol](./8_The_Internet_Protocol.md)
+- Module 9: [IPv4 and Network Segmentation](./9_IPv4_and_Network_Segmentation.md)
+- Module 10: [IPv6 Addressing Formats and Rules](./10_IPv6_Addressing_Formats_and_Rules.md)
+- Module 11: [Dynamic Addressing with DHCP](./11_Dynamic_Addressing_with_DHCP.md)
+- Module 12: [Gateway to Other Networks](./12_Gateway_to_Other_Networks.md)
+- Module 13: [The ARP Process](./13_The_ARP_Process.md)
+- Module 14: [Routing between Networks](./14_Routing_between_Networks.md)
+- Module 15: [TCP and UDP](./15_TCP_and_UDP.md)
 
 <br>
 

@@ -1,4 +1,4 @@
-
+[Back to Syllabus](./README.md#course-syllabus)
 
 ## 12.0.1 Webster - Why Should I Take this Module?
 Kishori receives an email from Rina asking if they can meet in the cafeteria for lunch. Kishori meets Rina and is eager to ask her a few more networking questions. Rina is always happy to share her knowledge. When Kishori was speaking with Madhav, she learned that her department is part of a LAN. Each department within the hospital has its own LAN. Kishori asks Rina how she is able to send and receive emails that are outside of her network. Rina explains that gateways and Network Address Translation (NAT) make all of this seamless communication possible. Rina is impressed with Kishori’s new knowledge and interest in networking! She mentions that there are several nurses in the hospital that have this knowledge and are paid more because they are able to troubleshoot the devices in the patient’s room. She recommends that Kishori take some courses so that she could eventually apply for this promotion. Wow! Who knew that nurses could get promoted by learning technology!
