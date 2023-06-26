@@ -1,3 +1,5 @@
+[Back to Syllabus](./README.md#course-syllabus)
+
 ## 15.0.1 Webster - Why Should I Take this Module?
 
 Kishori arrives at work early to get on a video conference call on the desktop computer at her nursing station. She logs into the session about mask protocol at the hospital. As she intently listens to the presenter, she notices a few dropped words. She wonders if it is a problem with the network. Is this similar to her tablet losing the connection for a moment? But then she remembers that she is using a computer that is hardwired to the network.

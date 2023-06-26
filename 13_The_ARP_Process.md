@@ -1,3 +1,5 @@
+[Back to Syllabus](./README.md#course-syllabus)
+
 ## 13.0.1 Webster - Why Should I Take this Module
 Kishori was looking at her phone and noticed that her phone actually has its own IP address. She went home and noticed that the IP address had changed to a value that is different from the address that she had at the hospital. She remembered that DHCP provides addresses to devices automatically, so she thinks that she gets IP addresses from different places depending on where she is. This makes sense to her because she knows these addresses permit devices to join different networks. Kishori also notices that her phone has a MAC address. She has checked and she notices that the MAC address is always the same, no matter which network she is attached to. It makes sense to Kishori, that her IP address changes when she is connected to different networks in different locations, but her MAC address is always the same, because her phone is her phone no matter where she is.
 

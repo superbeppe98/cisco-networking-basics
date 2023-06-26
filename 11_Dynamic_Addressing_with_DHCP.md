@@ -1,3 +1,5 @@
+[Back to Syllabus](./README.md#course-syllabus)
+
 ## 11.0.1 Webster - Why Should I Take this Module?
 
 Kishori’s nursing station just received a new laptop from the IT department. The IT specialist, Madhav, is setting it up on the desk and trying to connect to the network. He asks Kishori to log in to the computer. She enters her username and password and attempts to access a patient file. She explains that there must be a connection error. Madhav takes a seat to further investigate. Madhav checks the cable and it is connected. On his tablet, he pulls up the list of IPv4 addresses for all of the computers on this floor on this network. He found the issue! There is an error in the IPv4 address. Madhav explains that the intern in their department may have manually configured the network information on this host, rather than using Dynamic Host Configuration Protocol (DHCP). Kishori has not heard about DHCP. She is going to do some reading on this topic.
