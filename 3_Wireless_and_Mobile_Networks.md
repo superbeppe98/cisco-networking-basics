@@ -26,7 +26,7 @@
 - Bluetooth:
     - Bluetooth is a low-power, shorter range wireless technology that is intended to replace wired connectivity for accessories such as speakers, headphones, and microphones. Bluetooth can also be used to connect a smartwatch to a smartphone. Because Bluetooth technology can be used to transmit both data and voice, it can be used to create small local networks. Bluetooth is wireless technology that allows devices to communicate over short distances. Multiple devices can be connected at the same time with Bluetooth
 
-- NFC 
+- NFC:
     - Near Field Communication (NFC) is a wireless communication technology that enables data to be exchanged by devices that are in very close proximity to each other, usually less than a few centimeters. For example, NFC can be used to connect a smartphone and a payment system. NFC uses electromagnetic fields to transmit data
 
 ## 3.1.4 Check Your Understanding - Wireless Networks

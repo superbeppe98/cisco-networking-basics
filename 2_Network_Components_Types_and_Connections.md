@@ -77,7 +77,7 @@ Both clients can simultaneously send and receive messages
     - Mobile devices (such as smart phones, tablets, PDAs, and wireless debit/credit card readers and barcode scanners)
     - An end device (or host) is either the source or destination of a message transmitted over the network, as shown in the animation. In order to uniquely identify hosts, addresses are used. When a host initiates communication, it uses the address of the destination host to specify where the message should be sent
 
-- Click Play in the figure to see an animation of data flowing through a network.
+- Click Play in the figure to see an animation of data flowing through a network
 
 ## 2.2.4 Check Your Understanding - Network Components
 
@@ -110,7 +110,7 @@ Both clients can simultaneously send and receive messages
 
 - In metropolitan areas, many apartments and small offices are being connected directly with fiber-optic cables. This enables an internet service provider to provide higher bandwidth speeds and support more services such as internet, phone, and TV
 
-- The choice of connection varies depending on geographical location and service provider availability.
+- The choice of connection varies depending on geographical location and service provider availability
 - Satellite Connection
 
 ## 2.3.5 Check Your Understanding - ISP Connectivity Options
