@@ -26,7 +26,7 @@
 
 ## 8.1.3 Packet Tracer - Connect to a Web Server
 
-In this activity, you will observe how packets are sent across the internet using IP addresses.
+- In this activity, you will observe how packets are sent across the internet using IP addresses
 
 ## 8.2.1 Video - The IPv4 Address Structure
 

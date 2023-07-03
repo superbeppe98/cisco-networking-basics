@@ -37,8 +37,7 @@
 
 ## 10.1.3 Check Your Understanding - IPv4 Issues
 
-Check your understanding of IPv4 issues by choosing the BEST answer to the following questions.
-
+- Check your understanding of IPv4 issues by choosing the BEST answer to the following questions
 
 ## 10.2.1 Hexadecimal Number System
 
@@ -47,7 +46,6 @@ Check your understanding of IPv4 issues by choosing the BEST answer to the follo
 0 1 2 3 4 5 6 7 8 9 A B C D E F
 
 In IPv6 addresses, these 16 digits are represented as hextets (discussed next) allowing us to represent these massive addresses in a much more readable format.
-
 
 ## 10.2.2 IPv6 Addressing Formats
 

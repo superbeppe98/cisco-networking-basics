@@ -2,7 +2,7 @@
 
 ## 9.0.1 Webster - Why Should I Take this Module?
 
-Kishori has a new patient, Divya, who was admitted today. Like Srinivas, Divya does not speak the same language that Kishori speaks. Divya only speaks Telugu and has limited English. Kishori wants to send an email to the nurses on the next shift to determine whether any of them speak Telugu. Kishori can send a multicast email message, which is a single email message sent to specific multiple recipients. You know about the structure of IPv4 addresses. Now it is time to learn more about them. Have you heard of unicast, broadcast, and multicast IPv4 addresses? What are public, private, and reserved IPv4 addresses? Dive into this module to get a deeper understanding of IPv4 addresses!
+- Kishori has a new patient, Divya, who was admitted today. Like Srinivas, Divya does not speak the same language that Kishori speaks. Divya only speaks Telugu and has limited English. Kishori wants to send an email to the nurses on the next shift to determine whether any of them speak Telugu. Kishori can send a multicast email message, which is a single email message sent to specific multiple recipients. You know about the structure of IPv4 addresses. Now it is time to learn more about them. Have you heard of unicast, broadcast, and multicast IPv4 addresses? What are public, private, and reserved IPv4 addresses? Dive into this module to get a deeper understanding of IPv4 addresses
 
 ## 9.0.2 What Will I Learn in this Module?
 

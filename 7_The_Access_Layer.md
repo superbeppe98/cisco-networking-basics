@@ -51,7 +51,7 @@
 
 ## 7.3.2 Webster - Reflection Questions
 
-There is a lot going on behind the scenes when I send an email to a friend. Way more than I knew about! Data gets encapsulated when I send an email and then it's de-encapsulated when my friend opens that email. The access layer of the OSI model is where all of this happens. Now that you know about encapsulation and the access layer, what else do you do on your computer, tablet, or smartphone that requires encapsulation and the protocols used at the access layer?
+- There is a lot going on behind the scenes when I send an email to a friend. Way more than I knew about! Data gets encapsulated when I send an email and then it's de-encapsulated when my friend opens that email. The access layer of the OSI model is where all of this happens. Now that you know about encapsulation and the access layer, what else do you do on your computer, tablet, or smartphone that requires encapsulation and the protocols used at the access layer?
 
 ## 7.3.3 The Access Layer Quiz
 
