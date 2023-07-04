@@ -121,3 +121,5 @@
 - Just when I was starting to get the hang of IPv4 addresses, I learned about IPv6 addresses! But since it looks like most networks use both types of addresses, I’m glad that I know a bit about each type. I guess it’s like cars on the road. Some are old but they still run. Newer cars have many more features and options than the older cars. And both older and newer cars are all driving on the same road. What is one obvious advantage to using IPv6 addresses instead of using IPv4 addresses?
 
 ## 10.3.3 IPv6 Addressing Formats and Rules Quiz
+
+[Go to Next Module](./11_Dynamic_Addressing_with_DHCP.md)

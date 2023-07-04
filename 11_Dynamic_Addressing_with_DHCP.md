@@ -23,7 +23,7 @@
 
 - Static assignment of addressing information can provide increased control of network resources, but it can be time consuming to enter the information on each host. When IPv4 addresses are entered statically, the host only performs basic error checks on the IPv4 address. Therefore, errors are more likely to occur.
 
-- When using static IPv4 addressing, it is important to maintain an accurate list of which IPv4 addresses are assigned to which devices. Additionally, these are permanent addresses and are not normally reused.
+- When using static IPv4 addressing, it is important to maintain an accurate list of which IPv4 addresses are assigned to which devices. Additionally, these are permanent addresses and are not normally reused
 
 ## 11.1.2 Dynamic IPv4 Address Assignment
 
@@ -79,3 +79,5 @@
 - Have you manually entered an IPv4 address for all the devices on your home network? These are called static addresses. I did this for my home network, and I made a mistake when entering the address for my tablet. I had to redo it. Can you imagine having to do this for a huge corporate network with hundreds, or even thousands of devices? What other advantages are there to using DHCP for device addressing?
 
 ## 11.3.3 Dynamic Addressing with DHCP Quiz
+
+[Go to Next Module](./12_Gateway_to_Other_Networks.md)
