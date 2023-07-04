@@ -39,8 +39,6 @@
 
 ## 8.2.3 Check Your Understanding - IPv4 Address Structure
 
-- Check your understanding of IPv4 address structure by choosing the correct answer to the following questions
-
 ## 8.3.1 What Did I Learn in this Module?
 
 - Purpose of the ipv4 address:The IPv4 address is a logical network address that identifies a particular host. It must be properly configured and unique within the LAN, for local communication. It must also be properly configured and unique in the world, for remote communication

@@ -100,8 +100,6 @@
 
 ## 9.2.8 Check Your Understanding - Types of IPv4 Addresses
 
-- Check your understanding of the types of IPv4 addresses by choosing the BEST answer to the following questions
-
 ## 9.3.1 Video - Network Segmentation
 
 ## 9.3.2 Broadcast Domains and Segmentation
@@ -136,8 +134,6 @@
 - Understanding how to subnet networks is a fundamental skill that all network administrators must develop. Various methods have been created to help understand this process. Although a little overwhelming at first, pay close attention to the detail and, with practice, subnetting will become easier
 
 ## 9.3.5 Check Your Understanding - Network Segmentation
-
-- Check your understanding of the network segmentation by choosing the BEST answer to the following questions
 
 ## 9.4.1 What Did I Learn in this Module?
 
