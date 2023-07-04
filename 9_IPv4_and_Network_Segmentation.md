@@ -166,3 +166,5 @@ In an Ethernet LAN, devices use broadcasts and ARP to locate other devices. ARP 
 - I just sent invitations to a party to several of my friends and family. The invitations went to different addresses, but the card inside is the same for everyone. This is like a multicast email isn’t it? I didn’t know you could do that, and I also didn’t know you could send a broadcast email to every person on your network! Can you think of a good reason to send a broadcast email to everyone in your network? Can you think of a reason why you should be careful before you send a broadcast email?
 
 ## 9.4.3 IPv4 and Network Segmentation Quiz
+
+[Go to Next Module](./10_IPv6_Addressing_Formats_and_Rules.md)

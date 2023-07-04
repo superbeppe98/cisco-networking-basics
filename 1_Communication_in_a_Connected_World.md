@@ -70,7 +70,7 @@
 - Business and SOHO networks usually provide a shared connection to the internet. The internet is considered a "network of networks" because it is literally made up of thousands of local networks that are connected to each other
 
 - Small Home Networks
-    - Small home networks connect a few computers to each other and to the internet.
+    - Small home networks connect a few computers to each other and to the internet
 - Small Office and Home Office Networks
     - The SOHO network allows computers in a home office or a remote office to connect to a corporate network, or access centralized, shared resources
 - Medium to Large Networks
@@ -126,7 +126,8 @@
 - Did you know that computers and networks only work with binary digits, zeros and ones? It can be difficult to imagine that all of our data is stored and transmitted as a series of bits. Each bit can only have one of two possible values, 0 or 1. The term bit is an abbreviation of “binary digit” and represents the smallest piece of data. Humans interpret words and pictures, computers interpret only patterns of bits
 - A bit is stored and transmitted as one of two possible discrete states. This can include two directions of magnetization, two distinct voltage or current levels, two distinct levels of light intensity, or any other physical system of two discrete states. For example, a light switch can be either On or Off; in binary representation, these states would correspond to 1 and 0 respectively
 - Every input device (mouse, keyboard, voice-activated receiver) will translate human interaction into binary code for the CPU to process and store. Every output device (printer, speakers, monitors, etc.) will take binary data and translate it back into human recognizable form. Within the computer itself, all data is processed and stored as binary
-- Computers use binary codes to represent and interpret letters, numbers and special characters with bits. A commonly used code is the American Standard Code for Information Interchange (ASCII). With ASCII, each character is represented by eight bits.
+- Computers use binary codes to represent and interpret letters, numbers and special characters with bits. A commonly used code is the American Standard Code for Information Interchange (ASCII). With ASCII, each character is represented by eight bits
+
 - For example:
     - Capital letter: A = 01000001
     - Number: 9 = 00111001
@@ -157,7 +158,7 @@
   - Millions of bits per second (Mbps)
   - Billions of bits per second (Gbps)
 - Physical media properties, current technologies, and the laws of physics all play a role in determining available bandwidth
-- The table shows the commonly used units of measure for bandwidth.
+- The table shows the commonly used units of measure for bandwidth
 
 ## 1.3.2 Throughput
 
@@ -168,7 +169,7 @@
     - Latency refers to the amount of time, including delays, for data to travel from one given point to another
 - Throughput measurements do not take into account the validity or usefulness of the bits being transmitted and received. Many messages received through the network are not destined for specific user applications. An example would be network control messages that regulate traffic and correct errors
 - In an internetwork or network with multiple segments, throughput cannot be faster than the slowest link of the path from sending device to the receiving device. Even if all or most of the segments have high bandwidth, it will only take one segment in the path with lower bandwidth to create a slowdown of the throughput of the entire network
-- There are many online speed tests that can reveal the throughput of an internet connection.
+- There are many online speed tests that can reveal the throughput of an internet connection
 
 ## 1.3.3 Video - Throughput
 

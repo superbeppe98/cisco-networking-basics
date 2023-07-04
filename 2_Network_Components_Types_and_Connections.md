@@ -141,5 +141,5 @@ Have you ever ordered a piece of furniture that you had to assemble yourself? Th
 
 ## 2.4.3 Network Components, Types, and Connections Quiz
 
-[Go to Next Module](./3_Wireless_and_Mobile_Networks.mc)
+[Go to Next Module](./3_Wireless_and_Mobile_Networks.md)
 

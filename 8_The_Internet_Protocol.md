@@ -1,6 +1,6 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
-## 8.0.1 Webster - Why Should I Take this Module?8.0.1 Webster - Why Should I Take this Module?
+## 8.0.1 Webster - Why Should I Take this Module?
 
 - Kishori is learning a lot from Rina! She understands that when she sends or receives a package in the mail, there is a unique address involved. A postal code is critical in the address to route the package to the correct post office. She asks Rina if computers use something like a zip code to route the message to the correct place. Rina goes into more detail about the process and explains that much like Kishori’s home address identifies where she lives, an IPv4 address identifies a host on the network. A host needs an IPv4 address to participate on the internet and almost all LANs today. Every packet sent across the internet has a source and destination IPv4 address. This information is required by networking devices to ensure the information gets to the destination and any replies are returned to the source
 - My friend Kishori never thought she would be so interested in all of this tech information, but she really wants to learn more! Do you? Take this module to learn about the Internet Protocol and the structure of IPv4 addresses!
