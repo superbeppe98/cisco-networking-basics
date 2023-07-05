@@ -3,7 +3,6 @@
 ## 6.0.1 Webster - Why Should I Take this Module
 
 - Kishori knows that the 15 to 20 devices in a patient’s room wirelessly connect to the network. She also uses a wireless tablet. While working at the nurses' station, she noticed that the wireless network on her desktop computer was disabled. However, she still has access to patient records. How is the desktop connected?
-
 - How does communication transmit across a network? The answer is network media. Media provides a channel over which the message travels from source to destination. In modern networks, there are primarily three types of media used. Do you know what they are? Take this module to learn about media types
 
 ## 6.0.2 What Will I Learn in this Module?
@@ -20,7 +19,6 @@
     - Metal wires within cables - Data is encoded into electrical impulses
     - Glass or plastic fibers within cables (fiber-optic cable) - Data is encoded into pulses of light
     - Wireless transmission - Data is encoded via modulation of specific frequencies of electromagnetic waves
-
 - The four main criteria for choosing network media are these:
     - What is the maximum distance that the media can successfully carry a signal?
     - What is the environment in which the media will be installed?
@@ -49,13 +47,11 @@
     - Metal wires within cables - Data is encoded into electrical impulses
     - Glass or plastic fibers within cables (fiber-optic cable) - Data is encoded into pulses of light
     - Wireless transmission - Data is encoded via modulation of specific frequencies of electromagnetic waves
-
     - The four main criteria for choosing media are the following:
         - What is the maximum distance that the media can successfully carry a signal?
         - What is the environment in which the media will be installed?
         - What is the amount if data and at what speed must is be transmitted?
         - What is the cost of the media installation?
-
     - The three most common network cables are twisted-pair, coaxial cable, and fiber-optic cable. Ethernet technology generally uses twisted-pair cables to interconnect devices. Coaxial cable is the kind of copper cable used by cable TV companies. It is also used for connecting the various components which make up satellite communication systems. Fiber-optic cable can be either glass or plastic with a diameter about the same as a human hair and it can carry digital information at very high speeds over long distances. Because light is used instead of electricity, electrical interference does not affect the signal
 
 ## 6.2.2 Webster - Reflection Questions

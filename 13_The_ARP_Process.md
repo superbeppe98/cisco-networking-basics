@@ -1,35 +1,33 @@
 [Back to Syllabus](./README.md#course-syllabus)
 
 ## 13.0.1 Webster - Why Should I Take this Module
-Kishori was looking at her phone and noticed that her phone actually has its own IP address. She went home and noticed that the IP address had changed to a value that is different from the address that she had at the hospital. She remembered that DHCP provides addresses to devices automatically, so she thinks that she gets IP addresses from different places depending on where she is. This makes sense to her because she knows these addresses permit devices to join different networks. Kishori also notices that her phone has a MAC address. She has checked and she notices that the MAC address is always the same, no matter which network she is attached to. It makes sense to Kishori, that her IP address changes when she is connected to different networks in different locations, but her MAC address is always the same, because her phone is her phone no matter where she is.
 
-This means that both IP and MAC addresses must be required in order for the phone to receive data. The IP address tells the sender of data where she is, and once the data gets to her location, the MAC address of her phone permits the device to receive data that is meant just for her. Thinking further, Kishori wonders how MAC addresses can be known to the network. DHCP provides the correct IP addresses for the network, but each device has its own, unique MAC address.
+- Kishori was looking at her phone and noticed that her phone actually has its own IP address. She went home and noticed that the IP address had changed to a value that is different from the address that she had at the hospital. She remembered that DHCP provides addresses to devices automatically, so she thinks that she gets IP addresses from different places depending on where she is. This makes sense to her because she knows these addresses permit devices to join different networks. Kishori also notices that her phone has a MAC address. She has checked and she notices that the MAC address is always the same, no matter which network she is attached to. It makes sense to Kishori, that her IP address changes when she is connected to different networks in different locations, but her MAC address is always the same, because her phone is her phone no matter where she is
+
+- This means that both IP and MAC addresses must be required in order for the phone to receive data. The IP address tells the sender of data where she is, and once the data gets to her location, the MAC address of her phone permits the device to receive data that is meant just for her. Thinking further, Kishori wonders how MAC addresses can be known to the network. DHCP provides the correct IP addresses for the network, but each device has its own, unique MAC address
 
 Kishori is ready to learn more! Are you? Keep reading!
 
-
-
-
 ## 13.0.2 What Will I Learn in this Module?
-Module Title: The ARP Process
 
-Module Objective: Explain how ARP enables communication on a network.
-
+- Module Title: The ARP Process
+- Module Objective: Explain how ARP enables communication on a network
 
 ## 13.1.1 Destination on Same Network
-Sometimes a host must send a message, but it only knows the IP address of the destination device. The host needs to know the MAC address of that device, but how can it be discovered? That is where address resolution becomes critical.
 
-There are two primary addresses assigned to a device on an Ethernet LAN:
+- Sometimes a host must send a message, but it only knows the IP address of the destination device. The host needs to know the MAC address of that device, but how can it be discovered? That is where address resolution becomes critical
+
+- There are two primary addresses assigned to a device on an Ethernet LAN:
 
 Physical address (the MAC address) – Used for NIC-to-NIC communications on the same Ethernet network.
 Logical address (the IP address) – Used to send the packet from the source device to the destination device. The destination IP address may be on the same IP network as the source, or it may be on a remote network.
-Layer 2 physical addresses (i.e., Ethernet MAC addresses) are used to deliver the data link frame with the encapsulated IP packet from one NIC to another NIC that is on the same network. If the destination IP address is on the same network, the destination MAC address will be that of the destination device.
+Layer 2 physical addresses (i.e., Ethernet MAC addresses) are used to deliver the data link frame with the encapsulated IP packet from one NIC to another NIC that is on the same network. If the destination IP address is on the same network, the destination MAC address will be that of the destination device
 
-Consider the following example using simplified MAC address representations.
+Consider the following example using simplified MAC address representations
 
 
 
-In this example, PC1 wants to send a packet to PC2. The figure displays the Layer 2 destination and source MAC addresses and the Layer 3 IPv4 addressing that would be included in the packet sent from PC1.
+In this example, PC1 wants to send a packet to PC2. The figure displays the Layer 2 destination and source MAC addresses and the Layer 3 IPv4 addressing that would be included in the packet sent from PC1
 
 The Layer 2 Ethernet frame contains the following:
 
@@ -166,4 +164,4 @@ All of my devices (and all of your devices) have an IP address, and a MAC addres
 
 
 
-
+[Go to Next Module](./14_Routing_Between_Networks.md)
