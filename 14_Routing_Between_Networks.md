@@ -5,25 +5,15 @@ Kishori leaves work for the day and begins her drive home. Her friend has called
 
 Great question Kishori! Networks can also have this issue of congestion slowing down its performance. In a network, the router can determine the best path. How does a network become congested? What can you do to limit that congestion? You and Kishori will find out in this module!
 
-
-
 ## 14.0.2 What Will I Learn in this Modules?
-Module Title: Routing Between Networks
 
-Module Objective: Create a fully connected LAN.
-
-
-
+- Module Title: Routing Between Networks
+- Module Objective: Create a fully connected LAN
 
 ## 14.1.1 Video - Dividing the Local Network
-This is a media player component. Select the play / pause button to watch or listen.
-Press the Play button to watch the video.
-
-
-
-
 
 ## 14.1.2 Now We Need Routing
+
 In most situations we want our devices to be able to connect beyond our local network: out to other homes, businesses, and the internet. Devices that are beyond the local network segment are known as remote hosts. When a source device sends a packet to a remote destination device, then the help of routers and routing is needed. Routing is the process of identifying the best path to a destination.
 
 A router is a networking device that connects multiple Layer 3, IP networks. At the distribution layer of the network, routers direct traffic and perform other functions critical to efficient network operation. Routers, like switches, are able to decode and read the messages that are sent to them. Unlike switches, which make their forwarding decision based on the Layer 2 MAC address, routers make their forwarding decision based on the Layer 3 IP address.
@@ -38,16 +28,15 @@ IP Packet Encapsulated in an Ethernet Frame
 
 
 ## 14.1.3 Check Your Understanding - The Need for Routing
-Check your understanding of the need for routing by choosing the correct answer to the following questions.
-
 
 ## 14.2.1 Video - Router Packet Forwarding
-## 14.2.2 Video - Messages Within and Between Networks - Part 1
 
+## 14.2.2 Video - Messages Within and Between Networks - Part 1
 
 ## 14.2.3 Video - Messages Within and Between Networks - Part 2
 
 ## 14.2.4 Routing Table Entries
+
 Routers move information between local and remote networks. To do this, routers must use routing tables to store information. Routing tables are not concerned with the addresses of individual hosts. Routing tables contain the addresses of networks, and the best path to reach those networks. Entries can be made to the routing table in two ways: dynamically updated by information received from other routers in the network, or manually entered by a network administrator. Routers use the routing tables to determine which interface to use to forward a message to its intended destination.
 
 If the router cannot determine where to forward a message, it will drop it. Network administrators configure a static default route that is placed into the routing table so that a packet will not be dropped due to the destination network not being in the routing table. A default route is the interface through which the router forwards a packet containing an unknown destination IP network address. This default route usually connects to another router that can forward the packet towards its final destination network.
@@ -201,11 +190,8 @@ Placing all hosts on a single local network allows them to be seen by all other 
 
 Placing additional hosts on a remote network will decrease the impact of traffic demands. However, hosts on one network will not be able to communicate with hosts on the other network without the use of routing. Routers increase the complexity of the network configuration and can introduce latency, or time delay, on packets sent from one local network to the other.
 
-
-
 ## 14.4.2 Webster - Reflection Questions
 On my home network (LAN), I do not usually have enough network traffic to experience congestion, although it can happen when all my children are streaming different movies and I am trying to upload a document to my work. Can you think of a way that I could divide my LAN into multiple networks?
-
 
 [Go to Next Module](./15_TCP_and_UDP.md)
 
