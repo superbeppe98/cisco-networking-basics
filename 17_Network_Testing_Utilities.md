@@ -1,3 +1,5 @@
+[Back to Syllabus](./README.md#course-syllabus)
+
 17.0.1 Webster - Why Should I Take this Module?
 Kishori tries to reach a website using her desktop computer at her nursing station. She gets an error message when trying to reach the site. She checks the wired connection, and it is fine. She uses her laptop to try to reach that same website with no success. On the desktop, she goes to the command prompt and pings a different website on the internet. Now she realizes she has no connection. She calls the IT department. Madhav comes to the station to further investigate the issue. Madhav pings a website. Kishori explains that she tried that already. Then he pings the default gateway and receives a reply. The router is working. It is the ISP that is down. Madhav is impressed that Kishori has learned so much over the past few months. He tells her that she should apply for that promotion and that she can use him as a reference!
 

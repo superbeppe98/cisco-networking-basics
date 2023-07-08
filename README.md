@@ -16,6 +16,8 @@
 - Module 13: [The ARP Process](./13_The_ARP_Process.md)
 - Module 14: [Routing between Networks](./14_Routing_between_Networks.md)
 - Module 15: [TCP and UDP](./15_TCP_and_UDP.md)
+- Module 16: [Application Layer Services](./16_Application_Layer_Services.md)
+- Module 17: [Network Testing Utilities](./17_Network_Testing_Utilities.md)
 
 <br>
 
