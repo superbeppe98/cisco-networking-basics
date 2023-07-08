@@ -46,4 +46,3 @@
 
 ## Badge
 ![networking-basics](https://github.com/superbeppe98/cisco-networking-basics/assets/29455975/27daefd3-7352-4cd2-a57a-bf42d64b62e8)
-W
